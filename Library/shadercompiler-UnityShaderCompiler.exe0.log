@@ -1,0 +1,81 @@
+Base path: 'G:/Program Files/2019.3.7f1/Editor/Data', plugins path 'G:/Program Files/2019.3.7f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=7544 outsize=7546 ok=1
+Cmd: preprocessCompute
+  insize=8382 outsize=8384 ok=1
+Cmd: preprocessCompute
+  insize=5421 outsize=5423 ok=1
+Cmd: preprocessCompute
+  insize=4864 outsize=4866 ok=1
+Cmd: preprocess
+  insize=41169 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=5423 outsize=5425 ok=1
+Cmd: preprocessCompute
+  insize=4872 outsize=4874 ok=1
+Cmd: preprocess
+  insize=40212 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=7917 outsize=7919 ok=1
+Cmd: preprocessCompute
+  insize=7513 outsize=7515 ok=1
+Cmd: preprocess
+  insize=44037 outsize=616 ok=1
+Cmd: preprocess
+  insize=38912 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=5421 outsize=5423 ok=1
+Cmd: preprocessCompute
+  insize=4896 outsize=4898 ok=1
+Cmd: preprocess
+  insize=41276 outsize=629 ok=1
+Cmd: preprocessCompute
+  insize=7671 outsize=7673 ok=1
+Cmd: preprocessCompute
+  insize=11177 outsize=11179 ok=1
+Cmd: preprocess
+  insize=38738 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=1926 outsize=1928 ok=1
+Cmd: preprocessCompute
+  insize=7632 outsize=7634 ok=1
+Cmd: preprocessCompute
+  insize=8656 outsize=8658 ok=1
+Cmd: preprocessCompute
+  insize=5480 outsize=5482 ok=1
+Cmd: preprocessCompute
+  insize=4864 outsize=4866 ok=1
+Cmd: preprocess
+  insize=40939 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=5482 outsize=5484 ok=1
+Cmd: preprocessCompute
+  insize=4872 outsize=4874 ok=1
+Cmd: preprocess
+  insize=39982 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=7976 outsize=7978 ok=1
+Cmd: preprocessCompute
+  insize=7513 outsize=7515 ok=1
+Cmd: preprocess
+  insize=43371 outsize=615 ok=1
+Cmd: preprocess
+  insize=38912 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=5480 outsize=5482 ok=1
+Cmd: preprocessCompute
+  insize=4896 outsize=4898 ok=1
+Cmd: preprocess
+  insize=41020 outsize=628 ok=1
+Cmd: preprocessCompute
+  insize=7661 outsize=7663 ok=1
+Cmd: preprocessCompute
+  insize=11551 outsize=11553 ok=1
+Cmd: preprocess
+  insize=38507 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=1926 outsize=1928 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

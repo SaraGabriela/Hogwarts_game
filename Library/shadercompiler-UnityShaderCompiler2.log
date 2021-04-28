@@ -1,0 +1,7 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.3.7f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.3.7f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (17): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=14 insize=8949 outsize=0 ok=0
+
+Quitting shader compiler process
